@@ -1,6 +1,6 @@
-# Sampling Assignment Discussion
-## Creating samples:
-### In total of 5 samples of size 385 are created using sampling the following sampling techniques-
+# Sampling Assignment
+## Samples:
+### 5 samples of size 385 are created using sampling the following sampling techniques-
 1. Simple Random Sampling
 2. Systematic Sampling
 3. Cluster Sampling
@@ -14,7 +14,7 @@
 4. Decision Trees
 5. Random forest classifier
 
-### Following are the accuracy scores for the models for each sample-
+### Accuracy scores for the models for each sample-
 |          | Model 1 | Model 2 | Model 3 | Model 4 | Model 5 |
 | ------   | ------ | ------- | ------- | ------- | ------- |
 | Sample 1 | 0.89   | 0.88  | 0.83  |   0.96   |    0.99    |
